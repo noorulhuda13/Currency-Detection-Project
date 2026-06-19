@@ -24,13 +24,7 @@ Image Processing Toolbox
 Statistics and Machine Learning Toolbox
 Installation
 
-Clone this repository:
-bash
-git clone https://github.com/yourusername/currency-recognition-system.git
-Open MATLAB and navigate to the project directory
-Run the GUI:
-matlab
-MY_GUI
+
 📁 Project Structure
 
 text
